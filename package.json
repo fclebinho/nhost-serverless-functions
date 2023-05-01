@@ -1,0 +1,16 @@
+{
+  "name": "nhost-serverless-functions",
+  "version": "0.0.1",
+  "private": true,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fclebinho/nhost-serverless-functions.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fclebinho/nhost-serverless-functions/issues"
+  },
+  "homepage": "https://github.com/fclebinho/nhost-serverless-functions#readme"
+}
