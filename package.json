@@ -12,5 +12,9 @@
   "bugs": {
     "url": "https://github.com/fclebinho/nhost-serverless-functions/issues"
   },
-  "homepage": "https://github.com/fclebinho/nhost-serverless-functions#readme"
+  "homepage": "https://github.com/fclebinho/nhost-serverless-functions#readme",
+  "dependencies": {
+    "graphql": "^16.6.0",
+    "graphql-yoga": "^3.9.1"
+  }
 }
